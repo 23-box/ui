@@ -1,6 +1,6 @@
-###     UI
+###     Embedded UI
 
-User Interface
+Embedded User Interface Proof-of-Concept, using LuaSDL binding
 
 ---
 
@@ -11,6 +11,8 @@ The keypress handler shall be able to handle multiple keypresses and display on 
 ---
 
 ####    SDL Display
+
+The target display shall nominally be 640 x 400 pixels with X2 scaling.
 
 ---
 
